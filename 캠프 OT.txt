@@ -10,4 +10,4 @@ TIL → 캠프에서 쓴 코드들을 고대로 복붙하면 큰일난다!
 
 2. github → git 저장소를 온라인에 저장/공유하는 서비스!  >> 협업 툴!
 
-3. 브랜치 추가 → github desktop에서 추가 후 publish branch 누르면 추가됨!
+3. 브랜치 추가 → github desktop에서 추가 후 publish branch 누르면 추가됨! → 팀 프로젝트에서 개인 작업 진행 시에 브랜치를 구분 후에 작업! 그리고 메인에 합체하면 됨!
